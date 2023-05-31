@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+a {
+    color: aquamarine;
+}
+
+h3 {
+    color: gray;
+}
+
+footer {
+    color: gray;
+    text-align: right;
+}
+
+.icon {
+    margin-top: 2rem;
+}
